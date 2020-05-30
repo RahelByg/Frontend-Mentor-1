@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #F0EDED;
+  background-color: #FAFAFA;
   font-family: "Poppins", sans-serif;
 }
 
@@ -22,7 +22,7 @@ h3 {
 }
 
 p {
-  color: #BFBFBF;
+  color: #D3D2D6;
 }
 
 /*TITLE*/
@@ -37,7 +37,7 @@ p {
 
 /*GRID SECTION*/
 .grid-box {
-  background-color: #F5F2F2;
+  background-color: #FFFFFF;
   max-width: 400px;
   min-width: 350px;
   padding: 30px;
